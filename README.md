@@ -18,21 +18,6 @@
 | **Switching** | VLANs (10+), VTP, STP optimization |
 | **Security** | ACLs, Port Security, DHCP Snooping |
 
-### Sample Configuration
-```cisco
-! OSPF Configuration
-router ospf 1
- network 192.168.1.0 0.0.0.255 area 0
-!
-! VLAN Creation
-vlan 10
- name Engineering
-!
-! Port Security
-interface Gig0/1
- switchport port-security
- switchport port-security maximum 2
-```
 
  Key Results
  
