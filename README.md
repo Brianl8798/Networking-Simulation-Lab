@@ -19,20 +19,20 @@
 | **Security** | ACLs, Port Security, DHCP Snooping |
 
 
- Key Results
+## Key Results
  
-Optimized OSPF convergence time by 30% through timer tuning
+- Optimized OSPF convergence time by **30%** through timer tuning
 
-Isolated broadcast domains with 10+ VLANs
+- Isolated broadcast domains with **10+ VLANs**
 
-Blocked unauthorized access via ACLs (e.g., deny tcp any any eq 23)
+- Blocked **unauthorized access via ACLs** (e.g., deny tcp any any eq 23)
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
-Routing Protocols - VLANs - ACLs - Troubleshooting - CCNA Concepts
+- Routing Protocols - VLANs - ACLs - Troubleshooting - CCNA Concepts
 
-💡 Lessons Learned
+## 💡 Lessons Learned
 
-"STP tuning prevents switching loops in complex topologies"
+- "STP tuning prevents switching loops in complex topologies"
 
-"Route redistribution requires careful metric conversion"
+- "Route redistribution requires careful metric conversion"
